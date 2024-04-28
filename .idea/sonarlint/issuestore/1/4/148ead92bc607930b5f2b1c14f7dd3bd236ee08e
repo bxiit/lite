@@ -1,0 +1,13 @@
+
+~	java:S125"<This block of commented-out lines of code should be removed.(‹Éÿ¼8ÒÆƒøñ1J$727d9a5a-a349-4330-ad02-becc1f6334fc
+Ÿ
+java:S1450""\Remove the "weatherClient" field and declare it as a local variable in the relevant methods.(»„òß8ÓÆƒøñ1J$b6685748-b39d-4424-a640-0d0e78cd8ed1
+¢
+java:S1450!"ZRemove the "weatherData" field and declare it as a local variable in the relevant methods.(Êúª¡üÿÿÿÿ8ÔÆƒøñ1J$0cc923b6-0f0c-4022-a94a-f077c0fa8eaa
+~	java:S1254"<This block of commented-out lines of code should be removed.(ºåÌá8ÙÆƒøñ1J$8ad5a246-6bf7-4ffa-a622-640b846a30fc
+¡
+java:S2142Y"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(”ı¾8İÆƒøñ1J$0ff7feb7-735f-4219-a29a-50469fa85973
+x
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ8ãÆƒøñ1J$393e5f8a-e843-41e5-a42a-5f404afebbaf
+v
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ãÆƒøñ1J$2561451a-eeaa-4efe-80ff-f8d5a9432412

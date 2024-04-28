@@ -26,6 +26,7 @@ public class Practicum {
 //
 //            weatherApp.displayWeather(command);
 //        }
+        System.out.println("to test reset");
     }
 }
 

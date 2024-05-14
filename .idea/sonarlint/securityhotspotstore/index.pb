@@ -8,3 +8,7 @@ B
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+F
+src/YeraArrayList.java,1\a\1a6a701d00f65ead16ae0039961a013d9872c570
+G
+src/YeraLinkedList.java,e\a\ea684f4aa52242f8fc0508378dad18b304a1f403
